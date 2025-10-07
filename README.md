@@ -2,7 +2,7 @@ Eğitim Amaçlı Tuş Kaydedici (Keylogger)
 [![Safe Use Recommended](https://img.shields.io/badge/Safe%20Use-VM%20only-red.svg)](#)
 
 > **Kısa açıklama:**  
-> Eğitim amaçlı geliştirilmiş, yalnızca **açık ve yazılı rıza ile** kullanılması gereken bir tuş kaydedici deney/prototipidir. Bu proje **siber güvenlik eğitimi** için hazırlanmıştır ve kötüye kullanım amaçlı **hiçbir** davranışı desteklemez.
+> Eğitim amaçlı geliştirilmiş, yalnızca **açık ve yazılı rıza ile** kullanılması gereken bir tuş kaydedici deney/prototipidir. Bu proje eğitim için hazırlanmıştır ve kötüye kullanım amaçlı **hiçbir** davranışı desteklemez.
 
 ## Önemli Uyarı — Zorunlu Okuyun
 - Bu yazılım **yalnızca** eğitim amaçlı kullanılmalıdır.  
