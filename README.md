@@ -1,5 +1,4 @@
 Eğitim Amaçlı Tuş Kaydedici (Keylogger)  
-[![Consent Required](https://img.shields.io/badge/Consent-Required-yellow.svg)](#)  
 [![Safe Use Recommended](https://img.shields.io/badge/Safe%20Use-VM%20only-red.svg)](#)
 
 > **Kısa açıklama:**  
@@ -23,6 +22,7 @@ Bu proje, öğrencilerin tuş yakalama yöntemlerini, log yönetimini ve güvenl
 - .NET Framework
 
 **Güvenlik:** Gerçek ağ üzerinde e-posta testleri yapmadan önce ortamı izole edin.
+
 **Aşağıda verilen linkte uygulamanın "kişisel rıza alınmış şekilde" denenmiş bir versiyonunun video kaydı bulunmaktadır.**
  
  https://youtu.be/-xNSrX7D5nk
